@@ -27,8 +27,8 @@ Users should be able to:
 
 
 ### Links
-- Solution URL: [https://github.com/jslcoding/Clipboard_landing_page](https://github.com/jslcoding/Clipboard_landing_page)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github repository clipboard landing page](https://github.com/jslcoding/Clipboard_landing_page)
+- Live Site URL: [Clipboard landing page](https://jslcoding.github.io/Clipboard_landing_page/)
 
 ## My process
 
