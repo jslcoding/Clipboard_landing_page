@@ -23,11 +23,11 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Screenshot
-![](./screenshot.jpg)
+![](./images/screenshot.png)
 
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/jslcoding/Clipboard_landing_page](https://github.com/jslcoding/Clipboard_landing_page)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -69,13 +69,10 @@ Customization of the theme on the configuration file of tailwind.
 ```
 
 ### Continued development
-Possibly building inner pages and creating a theme.
-
+Possibly building inner pages and creating a theme and onload effects with a js library.
 
 ### Useful resources
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
+- [TailwindCSS Docs](https://tailwindcss.com/docs/installation)
 
 ## Author
 @jslcodig - jessica sanmartin limes
